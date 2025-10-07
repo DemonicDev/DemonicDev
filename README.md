@@ -1,7 +1,8 @@
 - 👋 Hi, Mein Name ist Tijmen
 - 👀 Meine interessen sind PHP (pocketmine)
 - 🌱 ich lerne zurzeit PHP (pocketmine)
-
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demonicdev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 DemonicDev/DemonicDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
