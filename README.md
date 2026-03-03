@@ -10,9 +10,8 @@ Building & selling custom plugins, bots, and small tools. Open for freelance:
 • Basic PHP backends / web apps  
 
 📫 DM on Discord: demonicdev
-<!--
-📧 Email: [add one soon, e.g. tijmen.dev@gmail.com or demonicdev.contact@gmail.com]  
--->
+📧 Email: [comming soon]
+
 Check my repos for examples → DM for custom work or quotes.
 
 <!--
