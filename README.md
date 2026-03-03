@@ -12,7 +12,7 @@ Building & selling custom plugins, bots, and small tools. Open for freelance:
 📫 DM on Discord: demonicdev
 <!--
 📧 Email: [add one soon, e.g. tijmen.dev@gmail.com or demonicdev.contact@gmail.com]  
-
+-->
 Check my repos for examples → DM for custom work or quotes.
 
 <!--
