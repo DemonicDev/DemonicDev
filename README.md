@@ -8,8 +8,9 @@ Building & selling custom plugins, bots, and small tools. Open for freelance:
 • Custom PocketMine PM5 plugins (minigames, shops, mobs, etc.)  
 • Python Discord/Telegram bots & automation  
 • Basic PHP backends / web apps  
+
+📫 DM on Discord: demonicdev
 <!--
-📫 DM on Discord: [your exact tag, e.g. DemonicDev#1234 or Tijmen#xxxx]  
 📧 Email: [add one soon, e.g. tijmen.dev@gmail.com or demonicdev.contact@gmail.com]  
 
 Check my repos for examples → DM for custom work or quotes.
